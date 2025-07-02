@@ -1,0 +1,160 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "next": "Next",
+    "previous": "Previous",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "nav": {
+    "home": "Home",
+    "packages": "Packages",
+    "chat": "Chat",
+    "aftercare": "Aftercare",
+    "dashboard": "Dashboard",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Premium Medical Tourism Across Africa",
+      "subtitle": "Experience world-class healthcare with personalized care and seamless travel arrangements",
+      "cta_inquiry": "Start Your Journey",
+      "cta_packages": "Browse Packages"
+    },
+    "features": {
+      "title": "Why Choose EmirAfrik",
+      "personalized": {
+        "title": "Personalized Care",
+        "description": "Dedicated care coordinators guide you through every step"
+      },
+      "quality": {
+        "title": "World-Class Facilities",
+        "description": "Partner hospitals with international accreditation"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock assistance in your preferred language"
+      }
+    }
+  },
+  "inquiry": {
+    "title": "Start Your Medical Journey",
+    "steps": {
+      "medical": "Medical Information",
+      "personal": "Personal Details",
+      "preferences": "Travel Preferences",
+      "review": "Review & Submit"
+    },
+    "medical_form": {
+      "condition": "Medical Condition",
+      "condition_placeholder": "Describe your medical condition",
+      "treatment": "Desired Treatment",
+      "urgency": "Urgency Level",
+      "urgency_options": {
+        "low": "Not urgent",
+        "medium": "Within 3 months",
+        "high": "Within 1 month",
+        "emergency": "Urgent"
+      }
+    },
+    "personal_form": {
+      "full_name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "country": "Country",
+      "age": "Age",
+      "gender": "Gender"
+    },
+    "preferences_form": {
+      "budget": "Budget Range (USD)",
+      "destination": "Preferred Destination",
+      "accommodation": "Accommodation Preference",
+      "travel_companion": "Traveling with companion?"
+    }
+  },
+  "packages": {
+    "title": "Medical Tourism Packages",
+    "filters": {
+      "all": "All Treatments",
+      "cardiac": "Cardiac Care",
+      "orthopedic": "Orthopedic",
+      "cosmetic": "Cosmetic Surgery",
+      "dental": "Dental Care",
+      "oncology": "Cancer Treatment"
+    },
+    "package_card": {
+      "duration": "Duration: {{days}} days",
+      "price": "From ${{price}}",
+      "includes": "Package Includes:",
+      "book_now": "Book Now",
+      "learn_more": "Learn More"
+    }
+  },
+  "chat": {
+    "title": "Medical Assistant",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "ai_thinking": "AI is thinking...",
+    "welcome": "Hello! I'm your medical tourism assistant. How can I help you today?"
+  },
+  "payment": {
+    "title": "Secure Payment",
+    "package_summary": "Package Summary",
+    "total": "Total Amount",
+    "payment_methods": "Payment Methods",
+    "card": "Credit/Debit Card",
+    "mobile_money": "Mobile Money",
+    "processing": "Processing payment...",
+    "success": "Payment successful!",
+    "failed": "Payment failed. Please try again."
+  },
+  "aftercare": {
+    "title": "Aftercare & Follow-up",
+    "upload_reports": "Upload Medical Reports",
+    "view_schedule": "View Follow-up Schedule",
+    "contact_doctor": "Contact Your Doctor",
+    "no_reports": "No reports uploaded yet",
+    "upload_success": "Report uploaded successfully"
+  },
+  "dashboard": {
+    "title": "Patient Dashboard",
+    "workflow": {
+      "initial": "Initial Consultation",
+      "planning": "Treatment Planning",
+      "travel": "Travel & Treatment",
+      "followup": "Follow-up Care"
+    },
+    "patient_card": {
+      "assigned_to": "Assigned to: {{employee}}",
+      "current_step": "Step {{step}}",
+      "last_update": "Last update: {{date}}"
+    }
+  },
+  "admin": {
+    "workflow": {
+      "title": "Workflow Management",
+      "add_step": "Add New Step",
+      "edit_step": "Edit Step",
+      "step_number": "Step Number",
+      "step_title": "Step Title",
+      "step_description": "Description",
+      "step_phase": "Phase",
+      "is_active": "Active"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "register": "S'inscrire",
+    "profile": "Profil",
+    "settings": "Paramètres"
+  },
+  "nav": {
+    "home": "Accueil",
+    "packages": "Forfaits",
+    "chat": "Chat",
+    "aftercare": "Suivi médical",
+    "dashboard": "Tableau de bord",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Tourisme Médical Premium en Afrique",
+      "subtitle": "Découvrez des soins de santé de classe mondiale avec des soins personnalisés et des arrangements de voyage transparents",
+      "cta_inquiry": "Commencer Votre Voyage",
+      "cta_packages": "Parcourir les Forfaits"
+    },
+    "features": {
+      "title": "Pourquoi Choisir EmirAfrik",
+      "personalized": {
+        "title": "Soins Personnalisés",
+        "description": "Des coordinateurs de soins dédiés vous guident à chaque étape"
+      },
+      "quality": {
+        "title": "Installations de Classe Mondiale",
+        "description": "Hôpitaux partenaires avec accréditation internationale"
+      },
+      "support": {
+        "title": "Support 24/7",
+        "description": "Assistance 24h/24 dans votre langue préférée"
+      }
+    }
+  }
+}
